@@ -61,6 +61,6 @@ enabled = true
 # Enable storage for bonding information
 enabled = true
 
-[behavior]
-# Debounce time in milliseconds
-debounce = 5
+# Debounce configuration
+[debounce]
+debounce_ms = 5
