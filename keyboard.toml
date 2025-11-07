@@ -29,7 +29,7 @@ keymap = [
         ["Tab", "Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P"],
         ["LCtrl", "A", "S", "D", "F", "G", "H", "J", "K", "L", "Semicolon"],
         ["LShift", "Z", "X", "C", "V", "B", "N", "M", "Comma", "Dot", "Slash"],
-        ["Grave", "Minus", "Equal", "LeftBracket", "RightBracket", "Backslash", "Quote", "Keycode::Up", "Keycode::Down", "Keycode::Left", "Keycode::Right"]
+        ["Grave", "Minus", "Equal", "LeftBracket", "RightBracket", "Backslash", "Quote", "Up", "Down", "Left", "Right"]
     ],
     [
           # Layer 1: Function layer
