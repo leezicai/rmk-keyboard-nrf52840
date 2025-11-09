@@ -45,6 +45,8 @@ keymap = [
 [ble]
 enabled = true
 battery_adc_pin = "P0_04" # AIN_2
+adc_divider_measured = 2000
+adc_divider_total = 2806
 
 [storage]
 # Enable storage for bonding information
