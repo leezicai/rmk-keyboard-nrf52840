@@ -1,5 +1,6 @@
 [keyboard]
-name = "Custom Keyboard"
+name = "RMK Keyboard"
+product_name = "Pockey_Keyboard"
 vendor_id = 0x4B42
 product_id = 0x6060
 manufacturer = "Custom"
